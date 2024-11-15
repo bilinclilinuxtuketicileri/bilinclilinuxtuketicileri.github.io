@@ -4,7 +4,7 @@
 
 **Giriş**
 
-- [<i class="fa-brands fa-linux"></i> Linux Nedir](linux-nedir.md)
+- [<i class="fa-brands fa-linux"></i> Linux Nedir](README.md)
 - [<i class="fa-solid fa-question"></i> Neden Linux](neden-linux.md)
 - [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
 - [<i class="fa-brands fa-ubuntu"></i> Dağıtımlar](dagitimlar.md)
