@@ -1,8 +1,8 @@
 # Nasıl pull request oluşturulur?
 
 Öncelikle repoyu forklayın:
-![](images/pull_request_1.png)
-![](images/pull_request_2.png)
+![](docs/images/pull_request_1.png)
+![](docs/images/pull_request_2.png)
 
 Repoyu forkladığınız zaman reponun bir kopyası GitHub hesabınızda da oluşacaktır. Kendi GitHub sayfanızda oluşan repoyu bilgisayarınıza klonlayın. Daha sonra reponun klonlandığı klasöre geçiş yapıp yeni bir branch oluşturup branche geçiş yapın.
 
@@ -12,7 +12,7 @@ cd Bilincli-Linux-Tuketicileri
 git checkout -b UserName/main
 ```
 
-![](images/pull_request_4.png)
+![](docs/images/pull_request_4.png)
 
 Bu aşamadan sonra projede yapmak istediğiniz değişiklikleri yapıp commit atın ve reponuza gönderin.
 
@@ -24,7 +24,7 @@ git push origin UserName/main
 
 Bu aşamadan sonra işlemlerimize GitHub üzerinden devam etmemiz gerekiyor. Kendi sayfamızdaki repoya tekrar baktığımızda bu sefer bir uyarı mesajı göreceğiz.
 
-![](images/pull_request_5.png)
-![](images/pull_request_6.png)
+![](docs/images/pull_request_5.png)
+![](docs/images/pull_request_6.png)
 
 Pull request gönderirken [CONTRIBUTING](CONTRIBUTING.md) sayfasındaki kurallara uyduğunuzdan emin olun.
