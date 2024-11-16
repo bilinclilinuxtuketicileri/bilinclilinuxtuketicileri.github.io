@@ -7,3 +7,9 @@ Türk Linux kullanıcıları için önemli rehberleri ve dokümantasyonları Tü
 ## Katkı
 
 - Katkı yapmak için [CONTRIBUTING](CONTRIBUTING.md) sayfasına göz atın.
+
+## Atıf
+
+- Proje yapısı: [guvendekal.org](https://github.com/GuvendeKal/guvendekal.org)
+- Dökümantasyon sistemi: https://docsify.js.org/
+- İkonlar: https://fontawesome.com/
