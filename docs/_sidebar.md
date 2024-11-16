@@ -28,6 +28,9 @@
 - [<i class="fas fa-paint-brush"></i> Özelleştirme](comesoon.md)
 - [<i class="fas fa-tachometer-alt"></i> Optimizasyon](comesoon.md)
 
+**Atıf ve Hukuksal bilgiler**
+
+- [<i class="fas fa-copyright"></i> Atıf](atif.md)
 <!--
 **Uygulamalar**
 
