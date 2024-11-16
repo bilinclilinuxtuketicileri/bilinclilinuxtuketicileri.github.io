@@ -8,15 +8,14 @@
 - [<i class="fa-solid fa-question"></i> Neden Linux](neden-linux.md)
 - [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
 - [<i class="fa-brands fa-ubuntu"></i> Dağıtımlar](dagitimlar.md)
-- [<i class="fa-solid fa-computer"></i> Kurulum](kurulum.md)
 - [<i class="fa-solid fa-book"></i> Sözlük](sozluk.md)
 
 **Bileşenler**
 
-- [<i class="fas fa-play-circle"></i> Önyükleyici](comesoon.md)
-- [<i class="fa-brands fa-linux"></i> Çekirdek](comesoon.md)
-- [<i class="fas fa-cogs"></i> Init sistemi](comesoon.md)
-- [<i class="fas fa-hdd"></i> Dosya Sistemi](comesoon.md)
+- [<i class="fas fa-play-circle"></i> Önyükleyici](onyukleyici.md)
+- [<i class="fa-brands fa-linux"></i> Çekirdek](cekirdek.md)
+- [<i class="fas fa-cogs"></i> Init sistemi](init-sistemi.md)
+- [<i class="fas fa-hdd"></i> Dosya Sistemi](dosya-sistemi.md)
 - [<i class="fas fa-server"></i> Daemonlar](comesoon.md)
 - [<i class="fas fa-tv"></i> Grafik Sunucusu](comesoon.md)
 - [<i class="fas fa-desktop"></i> Masaüstü Ortamı](comesoon.md)
