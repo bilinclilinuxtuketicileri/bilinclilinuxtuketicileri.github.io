@@ -1,6 +1,6 @@
 # Init Sistemi Nedir?
 
-**Init sistemi**, bir işletim sistemi çekirdeği yüklendikten sonra çalışan ilk işlemdir. İşletim sisteminin başlangıç sürecini (boot işlemi) yönetir ve sistemde çalışan tüm süreçlerin (process) ana denetleyicisidir. **PID 1** altında çalışır ve sistem kapanana kadar çalışmaya devam eder. Init sistemleri, işletim sisteminin servislerini başlatır, süreçleri denetler ve kapatır.
+**Init sistemi**, bir işletim sistemi çekirdeği yüklendikten sonra çalışan ilk işlemdir. İşletim sisteminin başlangıç sürecini (boot işlemi) yönetir ve sistemde çalışan tüm süreçlerin (process) dolaylı olarak atasıdır. **PID 1** altında çalışır ve sistem kapanana kadar çalışmaya devam eder. Init sistemleri, işletim sisteminin servislerini başlatır, süreçleri denetler ve kapatır.
 
 ## Init Sistemlerinin Görevleri
 
