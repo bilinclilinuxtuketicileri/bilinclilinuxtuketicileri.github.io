@@ -14,10 +14,10 @@
 
 - [<i class="fas fa-play-circle"></i> Önyükleyici](onyukleyici.md)
 - [<i class="fa-brands fa-linux"></i> Çekirdek](cekirdek.md)
-- [<i class="fas fa-cogs"></i> Init sistemi](init-sistemi.md)
+- [<i class="fas fa-cogs"></i> Init Sistemi](init-sistemi.md)
 - [<i class="fas fa-hdd"></i> Dosya Sistemi](dosya-sistemi.md)
-- [<i class="fas fa-server"></i> Daemonlar](comesoon.md)
-- [<i class="fas fa-tv"></i> Grafik Sunucusu](comesoon.md)
+- [<i class="fas fa-server"></i> Daemonlar](daemonlar.md)
+- [<i class="fas fa-tv"></i> Grafik Sunucusu](grafik-sunucusu.md)
 - [<i class="fas fa-desktop"></i> Masaüstü Ortamı](comesoon.md)
 
 **Rehberler**
