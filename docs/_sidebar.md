@@ -18,7 +18,7 @@
 - [<i class="fas fa-hdd"></i> Dosya Sistemi](dosya-sistemi.md)
 - [<i class="fas fa-server"></i> Daemonlar](daemonlar.md)
 - [<i class="fas fa-tv"></i> Grafik Sunucusu](grafik-sunucusu.md)
-- [<i class="fas fa-desktop"></i> Masaüstü Ortamı](comesoon.md)
+- [<i class="fas fa-desktop"></i> Masaüstü Ortamı](masaustu-ortami.md)
 
 **Rehberler**
 
