@@ -4,11 +4,15 @@ Burada, makalelerde ve rehberlerde adı geçen tüm terimlerin anlamlarını ve 
 
 ## A
 
+- **Alias:** Shell komutlarında kullanılan, genellikle sık kullanılan veya karmaşık komutların yerine daha kısa ve hatırlanabilir ifadeler tanımlamak için kullanılan bir mekanizma.
+
 ## B
 
 - **Bootloader:** Bilgisayarın açılışında, işletim sistemini yüklemeye başlayan bir yazılım (kısaca önyükleyici). Donanım ve işletim sistemi arasında ilk iletişimi sağlar ve işletim sistemini başlatmadan önce gerekli yükleme işlemlerini gerçekleştirir.
 
 ## C
+- **Cron:**
+Zamanlanmış görevleri (schedule tasks) belirli aralıklarla veya belirli zamanlarda otomatik olarak çalıştıran bir zamanlayıcı (daemon). Linux sistemlerinde düzenli işler için kullanılır. Örneğin, yedekleme yapmak, sistem güncellemelerini kontrol etmek veya log dosyalarını temizlemek gibi.
 
 ## Ç
 
