@@ -20,6 +20,7 @@
 - [<i class="fas fa-tv"></i> Grafik Sunucusu](grafik-sunucusu.md)
 - [<i class="fas fa-desktop"></i> Masaüstü Ortamı](masaustu-ortami.md)
 
+<!--
 **Rehberler**
 
 - [<i class="fas fa-microchip"></i> Sürücüler](comesoon.md)
@@ -27,6 +28,7 @@
 - [<i class="fas fa-box"></i> Paket Yöneticileri](comesoon.md)
 - [<i class="fas fa-paint-brush"></i> Özelleştirme](comesoon.md)
 - [<i class="fas fa-tachometer-alt"></i> Optimizasyon](comesoon.md)
+-->
 
 **Atıf ve Hukuksal bilgiler**
 
