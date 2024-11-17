@@ -38,8 +38,7 @@
 
 - **GRUB:** Linux ve diğer işletim sistemlerini başlatmak için kullanılan bir bootloader'dır. Kullanıcıya birden fazla işletim sistemi arasında seçim yapma imkanı sunar.
 
-- **GRUB:** Linux ve diğer işletim sistemlerini başlatmak için kullanılan bir bootloader'dır. Kullanıcıya birden fazla işletim sistemi arasında seçim yapma imkanı sunar.
-
+- **Graphic Server:** Grafiksel kullanıcı arabirimlerini (GUI) işletim sistemine sağlayan yazılımdır. Kullanıcıların pencere yöneticileri ve uygulamalarıyla etkileşime girmesini sağlar. Linux sistemlerinde genellikle `X.org` veya `Wayland` grafik sunucuları kullanılır.
 
 ## H
 
@@ -57,7 +56,6 @@
 
 - **Jail:** Linux'ta bir yazılım veya hizmetin izole edilerek güvenlik için sınırlı bir ortamda çalıştırılmasını sağlayan bir tekniktir. Bu ortam, ana sistemden bağımsız çalışır.
 
-
 ## K
 
 - **Kernel:** Donanım ve Yazılım arasındaki iletişimi sağlayan, işletim sisteminin en temel bileşenlerinden biri.
@@ -65,6 +63,10 @@
 - **KVM:** Linux üzerinde sanal makineleri çalıştırmak için kullanılan bir sanallaştırma çözümüdür. KVM, donanım destekli sanallaştırmayı kullanarak sanal makinelerin performansını artırır.
 
 ## L
+
+- **Low-level:** Düşük seviye, bilgisayarın donanımına yakın, makine diline veya assembly diline daha yakın olan yazılım ve işlem seviyesini ifade eder.
+
+- **Lowest-level:** En düşük seviye, donanımın doğrudan kontrolü
 
 - **LVM:** Logical Volume Management (Mantıksal Birim Yönetimi), Linux'ta disk yönetimini daha esnek hale getiren bir sistemdir. LVM ile disk bölümleri dinamik olarak yönetilebilir.
 
@@ -123,4 +125,3 @@
 ## Z
 
 - **ZFS:** Sun Microsystems tarafından geliştirilen ve yüksek performanslı, güvenilir bir dosya sistemidir. Linux sistemlerinde ZFS, veri bütünlüğü ve büyük veri depolama ihtiyaçları için tercih edilir.
-
