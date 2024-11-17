@@ -4,8 +4,8 @@ window.$docsify.plugins = [].concat(
             var footer = '<footer style="text-align: center; margin-top: 50px; padding: 10px;">' +
                 '<p>© 2024, Bilinçli Linux Tüketicileri - Kamu malıdır. ' +
                 '</p>' +
-                '<h3><a href="/#/atif" style="color: white;">Atıf</a></h3>'
-            '<p>' +
+                '<h3><a href="/#/atif" style="color: white;">Atıf</a></h3>' +
+                '<p>' +
                 '<a href="https://raw.githubusercontent.com/bilinclilinuxtuketicileri/bilinclilinuxtuketicileri.github.io/refs/heads/main/LICENSE" target="_blank">' +
                 '<img src="docs/images/cc0.png" alt="Public Domain" style="width: 150px; vertical-align: middle;">' +
                 '</a>' +
