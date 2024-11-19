@@ -1,6 +1,6 @@
 # NVIDIA
 
-Bu makale resmi NVIDIA grafik kartı sürücülerini kapsamaktadır. Topluluk açık kaynak sürücüsü için Nouveau'ya bakın. Hybrid Intel/NVIDIA grafikli bir dizüstü bilgisayarınız varsa, bunun yerine NVIDIA Optimus'a bakın.
+Bu makale resmi NVIDIA grafik kartı sürücülerini kapsamaktadır. Topluluk açık kaynak sürücüsü için Nouveau'ya bakın. Hybrid Intel/NVIDIA grafikli bir dizüstü bilgisayarınız varsa, bunun yerine [**NVIDIA Optimus**](arch-nvidia-optimus.md)'a bakın.
 
 ?> Nouveau ve Hybrid ile ilgili rehberleri yazmaya devam ediyoruz. Katkıda bulunmak isteyenleri bekleriz 😇
 
@@ -33,7 +33,7 @@ Ardından, kartınız için uygun sürücüyü yükleyin:
 
 `kms`'i `/etc/mkinitcpio.conf` dosyasındaki HOOKS dizisinden kaldırın ve initramfs dosyasını yeniden oluşturun (`sudo mkinitcpio -P`). Bu, initramfs'in nouveau modülünü içermesini önleyecek ve çekirdeğin erken önyükleme sırasında onu yükleyemeyeceğinden emin olacaktır. `nvidia-utils` paketi, yeniden başlattığınızda nouveau modülünü kara listeye alan bir dosya içerir.
 
-Wayland kullanıyorsanız, aşağıdaki adımları uyguladığınızdan emin olun:
+Wayland kullanıyorsanız, [DRM kernel modu ayarı](#DRM-kernel-modu-ayarı)nı yaptığınızdan emin olun.
 
 ## DRM kernel modu ayarı
 
